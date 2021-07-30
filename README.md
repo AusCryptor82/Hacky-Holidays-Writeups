@@ -1,7 +1,10 @@
 # Hacky Holidays Writeups
 
 <h3>Phase 1</h3>
-<ul><li><a href='https://github.com/AusCryptor82/Hacky-Holidays-Writeups/blob/main/Enumerate_The_Cloud.pdf'>Enumerate the Cloud</a></li></ul>
+<ul>
+  <li><a href='https://github.com/AusCryptor82/Hacky-Holidays-Writeups/blob/main/Enumerate_The_Cloud.pdf'>Enumerate the Cloud</a></li>
+  <li><a href='https://github.com/AusCryptor82/Hacky-Holidays-Writeups/blob/main/Stolen%20Research.pdf'>Stolen Research</a></li>
+</ul>
 <h3>Phase 2</h3>
 <ul>
   <li><a href='https://github.com/AusCryptor82/Hacky-Holidays-Writeups/blob/main/Power%20Snacks.pdf'>Power Snacks</a>
